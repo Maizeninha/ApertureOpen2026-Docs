@@ -1,4 +1,5 @@
 # ApertureOpen2026-Docs
 docs da aperture.
-linktr.ee/aperturerobotics
+
+our [linktree](https://linktr.ee/aperturerobotics)
 ![image](qrcode.png)
